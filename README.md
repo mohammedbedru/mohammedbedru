@@ -7,7 +7,7 @@ I’m a passionate **Full-Stack Developer** with a keen interest in building sca
 ### 👀 I’m interested in:
 - Developing interactive and efficient web applications
 - Exploring new backend architectures and API development
-- Building solutions with **React**, **Laravel**, and **Node.js**
+- Building solutions with **React**, **Laravel**, **Springboot**, **Django**, **Odoo**, and **Node.js**
 - Performance optimization and improving user experience
 
 
